@@ -1,0 +1,14 @@
+.addTodo {
+  position: absolute;
+  bottom: 50px;
+  width: 100vw;
+  text-align: center;
+}
+.addTodo input {
+  border: 0px;
+  border-bottom: 3px solid;
+  color: white;
+  background-color: transparent;
+  font-size: 48px;
+  margin: 25px;
+}

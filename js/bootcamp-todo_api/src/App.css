@@ -1,0 +1,11 @@
+.App {
+  height: 100%;
+  position: absolute;
+  width: 100vw;
+  background-image: linear-gradient(to right, purple, green, red);
+}
+
+.App h2 {
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+p {
+  display: inline-block;
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  margin: 10px;
+  width: 5%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.option {
+  text-align: center;
+}
+
+#info {
+  width: 10%;
+}
+
+#amount {
+  width: 1%;
+}

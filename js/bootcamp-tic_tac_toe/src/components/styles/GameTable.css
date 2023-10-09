@@ -1,0 +1,80 @@
+#main-container div{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: solid;
+  position: absolute;
+  border-width: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: black;
+}
+
+#top-left {
+    border-left: 0px !important;
+    border-top: 0px !important;
+    left: 0px;
+    top: 0px;
+  }
+#top-right {
+    border-right: 0px !important;
+    border-top: 0px !important;
+    left: 410px;
+    top: 0px;
+  }
+
+#bottom-left {
+    border-left: 0px !important;
+    border-bottom: 0px !important;
+    top: 410px;
+    left: 0px;
+  }
+
+#bottom-right {
+    border-bottom: 0px !important;
+    border-right: 0px !important;
+    left: 410px;
+    top: 410px;
+  }
+
+#center {
+    left: 200px;
+    top: 200px;
+  }
+
+#top-center {
+  border-width: 0px !important;
+  left: 200px;
+  top: -10px;
+}
+
+#bottom-center{
+  border-width: 0px !important;
+  left: 200px;
+  top: 410px;
+}
+
+#center-left {
+  border-width: 0px !important;
+  left: -10px;
+  top: 200px;
+}
+
+#center-right {
+  border-width: 0px !important;
+  left: 410px;
+  top: 200px;
+}
+
+#main-container {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  height: 650px;
+  width: 620px;  
+}
+
+#trigger-button {
+  visibility: hidden;
+}

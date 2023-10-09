@@ -1,0 +1,32 @@
+.todo {
+  height: 10%;
+  width: 100vw;
+  color: white;
+}
+
+.todo div {
+  width: 25%;
+  display: inline-block;
+}
+
+.todo p {
+  margin: 25px;
+  width: 50%;
+  display: inline-block;
+  font-size: 25px;
+  color: white;
+}
+
+.todo button {
+  color: black;
+  background-color: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.todo Checkbox {
+  margin-top: 5px;
+  background-color: white;
+}

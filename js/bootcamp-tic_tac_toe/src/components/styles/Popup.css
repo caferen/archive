@@ -1,0 +1,32 @@
+.modal {
+    padding: 50px;
+    background-image: linear-gradient(to right, gray, cyan);
+  }
+  .modal > .header {
+    width: 100%;
+    border-bottom: 5px solid rgb(49, 40, 40);
+    font-size: 72px;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .modal > .content {
+    width: 100%;
+    padding-top: 20px;
+    font-size: 48px;
+    text-align: center;
+  }
+
+  .modal > .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: 10px;
+    top: 10px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid black;
+  }
+

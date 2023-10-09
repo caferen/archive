@@ -1,0 +1,41 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to bottom, white, #1da1f2);
+  overflow: hidden;
+}
+
+.search-box {
+  position: absolute;
+  width: 50%;
+  height: 20%;
+  left: 25%;
+  top: 15%;
+}
+
+.word-cloud {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  top: 50%;
+  left: 25%;
+  height: 40%;
+  width: 50%;
+}
+
+.see-tweets {
+  position: absolute;
+  left: 44%;
+  bottom: 40%;
+  background-color: #1da1f2;
+  color: white;
+  width: 12%;
+  height: 15%;
+}
+
+.favorites {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  width: 100%;
+  top: 35%;
+}

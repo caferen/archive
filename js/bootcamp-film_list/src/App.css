@@ -1,0 +1,34 @@
+#name {
+  color: bisque;
+  text-align: center;
+}
+
+.title {
+  color: darkred;
+  background-color: black;
+  border-color: black;
+  text-align: start;
+}
+
+.description {
+  color: cyan;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 50px 3fr 2fr;
+}
+
+.id {
+  color: bisque;
+}
+
+.column-name {
+  display: grid;
+  grid-template-columns: 50px 3fr 2fr;
+  color: bisque;
+}
+
+#blank {
+  color: black;
+}

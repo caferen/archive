@@ -1,0 +1,20 @@
+#options {
+  background-color: chocolate;
+  overflow: auto;
+  position: fixed;
+  height: 25vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+h3 {
+  background-color: chocolate;
+  text-align: center;
+  margin: 0px;
+  padding-top: 20px;
+}
+
+h2 {
+  text-align: center;
+}

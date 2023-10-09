@@ -1,0 +1,8 @@
+venv
+__pycache__
+.vscode
+*.xlsx
+analysis.txt
+file.txt
+*.json
+/[*

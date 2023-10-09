@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454007927045",
+    "firebase_url": "https://dijital-kitap.firebaseio.com",
+    "project_id": "dijital-kitap",
+    "storage_bucket": "dijital-kitap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454007927045:android:070bc90bbd47225d67c76c",
+        "android_client_info": {
+          "package_name": "com.dijitalkitap.dijitalkitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454007927045-gr5ptc7rv1b3odfmt9omvaqj8eac1umt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzn2ujm447q21UJjRpGPcor-sVkcnvK4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454007927045-gr5ptc7rv1b3odfmt9omvaqj8eac1umt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
